@@ -1,0 +1,21 @@
+textarea {
+    min-height: 400px;
+}
+
+.right{
+    float:right;
+    font-weight : 100;
+    padding-right: 10px;
+}
+
+.center{
+    padding-left: 10px;
+}
+
+
+.left{
+    padding-left: 10px;
+}
+
+
+
